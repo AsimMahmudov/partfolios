@@ -5,18 +5,21 @@
 
   background: rgba(31, 31, 31, 0);
   backdrop-filter: blur(10px);
+  color: white;
 
   .content {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 0 20px;
+    color: white;
   }
 
   .logo {
     display: flex;
     justify-content: center;
     align-items: center;
+    color: white;
   }
 
   .nav {
@@ -62,6 +65,8 @@
     a:active {
       background: rgb(0, 94, 235);
       color: #000000;
+      color: white;
+
       transition: 0.1s;
     }
   }

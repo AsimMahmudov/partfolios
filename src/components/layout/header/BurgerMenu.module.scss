@@ -17,16 +17,27 @@
   border: solid rgb(0, 81, 255) 4px;
 
   transition: 0.5s;
+  color: white;
+
   &.active {
     right: 0px;
     padding: 20px;
+    color: white;
   }
 }
 
 .content {
+  color: white;
+
   .nav {
+    color: white;
+
     ul {
+      color: white;
+
       li {
+        color: white;
+
         a {
           // background: red;
           text-decoration: none;

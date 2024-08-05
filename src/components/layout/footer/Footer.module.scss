@@ -5,18 +5,24 @@
     align-items: center;
     justify-content: space-around;
     padding: 10px;
+    color: white;
 
     .nav {
+      color: white;
+
       ul {
         display: flex;
         justify-content: center;
         align-items: center;
         gap: 33px;
+        color: white;
+
         li {
           a {
             color: rgb(161, 161, 161);
             text-decoration: none;
             cursor: pointer;
+            color: white;
           }
         }
       }
@@ -24,6 +30,7 @@
     .homebtn {
       display: flex;
       gap: 10px;
+      color: white;
       button {
         width: 50px;
         height: 50px;
@@ -36,11 +43,13 @@
         font-size: 35px;
         transition: 0.3s;
         border: none;
+        color: white;
       }
       button:hover {
         background: rgb(34, 113, 216);
         transition: 0.3s;
         box-shadow: 0 0 10px #2c6bdf, 0 0 20px #2c5cdf;
+        color: white;
       }
     }
   }
