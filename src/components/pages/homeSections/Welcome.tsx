@@ -16,7 +16,6 @@ const Welcome = () => {
             <h4>Hi, my name is</h4>
             <h1>Asim Mahmudov</h1>
             <h2>
-              I AM A{" "}
               <span>
                 <Typewriter
                   words={["FRONT-END DEVELOPER"]}

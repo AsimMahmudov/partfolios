@@ -1,8 +1,6 @@
 .Contact {
-  // height: 100vh;
-  background: green;
   padding: 100px 0;
-
+  color: white;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -14,7 +12,6 @@
     #000000 100%
   );
   background-size: cover;
-  // background-image: url("https://wallpaperset.com/w/full/2/8/2/529703.jpg");
   background-image: url("../../../assets/contactfon.jpg");
 
   .content {
