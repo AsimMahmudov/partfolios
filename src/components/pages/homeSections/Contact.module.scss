@@ -65,15 +65,18 @@
             cursor: pointer;
             font-size: 16px;
             background: #00114b;
+            color: white;
           }
           button:hover {
             box-shadow: 0 0 10px rgb(0, 94, 235), 0 0 20px rgb(0, 94, 235);
             transition: 0.2s;
+            color: white;
           }
           button:active {
             background: rgb(0, 94, 235);
             color: #000000;
             transition: 0.1s;
+            color: white;
           }
         }
       }

@@ -70,10 +70,12 @@
         border-radius: 50px;
         cursor: pointer;
         font-size: 18px;
+        color: white;
       }
       button:hover {
         box-shadow: 0 0 10px #2ca4df, 0 0 20px #2ca4df;
         transition: 0.2s;
+        color: white;
       }
       button:active {
         background: #2ca4df;

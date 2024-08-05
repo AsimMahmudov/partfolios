@@ -46,6 +46,9 @@
       .homebtn {
         display: flex;
         gap: 10px;
+        color: rgb(255, 255, 255);
+        color: white;
+
         button {
           width: 70px;
           height: 70px;
@@ -60,11 +63,14 @@
           font-size: 50px;
           transition: 0.3s;
           border: none;
+          color: rgb(255, 255, 255);
+          color: white;
         }
         button:hover {
           background: rgb(34, 113, 216);
           transition: 0.3s;
           box-shadow: 0 0 10px #2c6bdf, 0 0 20px #2c5cdf;
+          color: white;
         }
       }
     }
